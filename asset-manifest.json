@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Travel/static/css/main.d99bd9b8.css",
+    "main.js": "/Travel/static/js/main.0c9e87a8.js",
+    "static/media/hero.png": "/Travel/static/media/hero.eb0cb1be9e328d73703b.png",
+    "static/media/ellipse.png": "/Travel/static/media/ellipse.6a738e471440ee1493d6.png",
+    "static/media/screens.png": "/Travel/static/media/screens.05625293ba0337d04ee3.png",
+    "static/media/japan.png": "/Travel/static/media/japan.8b8aa4efb22fd66923b5.png",
+    "static/media/cuba.png": "/Travel/static/media/cuba.1147b9add07eb004340e.png",
+    "static/media/paris.png": "/Travel/static/media/paris.da66d0673ebbe0dcbc0f.png",
+    "static/media/lighthouse.png": "/Travel/static/media/lighthouse.2a73c491e911290f7a04.png",
+    "static/media/testimonial1.png": "/Travel/static/media/testimonial1.3be97481c7adb35451b4.png",
+    "static/media/testimonial2.png": "/Travel/static/media/testimonial2.6c8edb80ee9833db3f18.png",
+    "static/media/tour3.png": "/Travel/static/media/tour3.a8d2431ae35c5e6e3d80.png",
+    "static/media/tour2.png": "/Travel/static/media/tour2.f1e645a35d3e2190b908.png",
+    "static/media/tour1.png": "/Travel/static/media/tour1.2a5e1f4c7b873d7aa230.png",
+    "static/media/service1.png": "/Travel/static/media/service1.d033602133ecba7683b1.png",
+    "index.html": "/Travel/index.html",
+    "main.d99bd9b8.css.map": "/Travel/static/css/main.d99bd9b8.css.map",
+    "main.0c9e87a8.js.map": "/Travel/static/js/main.0c9e87a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99bd9b8.css",
+    "static/js/main.0c9e87a8.js"
+  ]
+}
